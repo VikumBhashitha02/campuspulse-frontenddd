@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";import{r as t}from"./States-CIWk_8Xg.js";var n=e(),r=({error:e})=>(0,n.jsx)(`div`,{className:`mx-auto max-w-3xl px-4 py-16`,children:(0,n.jsx)(t,{message:e.message})});export{r as errorComponent};

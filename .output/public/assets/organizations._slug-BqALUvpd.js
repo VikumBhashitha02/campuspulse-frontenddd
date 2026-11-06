@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cx0BB4qO.js";var t=e(),n=()=>(0,t.jsx)(`div`,{className:`mx-auto max-w-2xl px-4 py-24 text-center`,children:(0,t.jsx)(`h1`,{className:`text-2xl font-extrabold`,children:`Organisation not found`})});export{n as notFoundComponent};
